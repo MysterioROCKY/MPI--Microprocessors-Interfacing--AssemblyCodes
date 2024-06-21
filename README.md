@@ -1,7 +1,7 @@
 # MPI Assignments Repository
 
 ## Overview
-This repository contains a collection of assignments (Assig1 to Assig6) for the MPI course. Each assignment folder contains various problems with their solutions implemented in both C and Assembly language. 
+This repository contains a collection of assignments (Assig1 to Assig6) for the MPI course. Each assignment folder contains various problems with their solutions implemented in Assembly language. 
 
 ## Folder Structure
 Here is the detailed folder structure of the repository:
@@ -128,3 +128,20 @@ Write assembly language programs to compute the following (use NASM assembler). 
 3. Develop C-Programs for the following problem statements:
    3.1. Print the internal representation of data stored in primary data types: int, float, and double.
    3.2. Perform addition and multiplication of two 32-bit numbers (Please remember that the input is a 32-bit binary number). The numbers can either be integers or real numbers.
+
+
+### How to Run ASM and C Codes
+
+To run the ASM and C codes, follow these steps:
+
+1. Assemble the `.asm` file using NASM:
+   ```sh
+   nasm -f elf64 file.asm
+
+2. Compile the .o file and the .c file together using GCC:   
+   ```sh
+   gcc file.o file.c -o output
+
+3. Run the output file:
+   ```sh
+   ./output
