@@ -1,4 +1,6 @@
-# MPI Assignments Repository
+# MPI(Microprocessors and Interfacing) Repository - NASM | MASM
+ - **NASM (Netwide Assembler) and MASM (Microsoft Macro Assembler) are assembly language assemblers used for writing low-level code that directly corresponds to machine 
+   instructions.**
 
 ## Overview
 This repository contains a collection of assignments (Assig1 to Assig6) for the MPI course. Each assignment folder contains various problems with their solutions implemented in Assembly language. 
@@ -134,9 +136,9 @@ Write assembly language programs to compute the following (use NASM assembler). 
 
 To run the ASM and C codes, follow these steps:
 
-1. Assemble the `.asm` file using NASM:
+1. Assemble the .asm file using NASM:
    ```sh
-   nasm -f elf64 file.asm
+   nasm -felf64 file.asm
 
 2. Compile the .o file and the .c file together using GCC:   
    ```sh
