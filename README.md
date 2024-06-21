@@ -92,21 +92,21 @@ Here is the detailed folder structure of the repository:
 ### MPI_Assig(1-6)Ques.pdf
 Contains the questions for each lab assignment.
 
-#### Lab-6 Due Date: November 24, 2023
+#### LabAssig-6 
 1. Write an assembly language program to perform the addition of two N x N matrices.
 2. Write an assembly language program to perform the multiplication of two N x N matrices.
    - Note: Use NASM and consider the value of N during run time.
 
-#### Lab-5 Due Date: November 05, 2023
+#### LabAssig-5 
 Take any five problems that we discussed in the first four lab assignments (i.e., Lab-1 to Lab-4) and implement them using the MASM assembler.
 
-#### Lab-4 Due Date: October 20, 2023
+#### LabAssig-4 
 Assume that you have a processor (P) and it supports ADD (Addition), SUB (Subtraction), INC (Increment), DEC, CMP (Compare), Jcc (Jump if a condition is met), JMP, XOR, and MOV operations. Assume that A and B are positive integers and A > B.
 1. Write an assembly language program to compute the (A² − B²) on P.
 2. Write an assembly language program to compute the quotient of (A³ − B³)/(A + B) on P.
 3. Compute A choose B on P.
 
-#### Lab-3
+#### LabAssig-3
 You are given with n positive integers. Write functions to compute the following using assembly language instructions:
 1. To find the number of even numbers
 2. To find the number of odd numbers
@@ -114,7 +114,7 @@ You are given with n positive integers. Write functions to compute the following
 4. To find the GCD of n numbers
 5. To find the LCM of n numbers
 
-#### Lab-2
+#### LabAssig-2
 Write assembly language programs to compute the following (use NASM assembler). Assume that all elements are integers:
 1. Find the maximum of n numbers.
 2. Find the minimum of n numbers.
@@ -122,7 +122,7 @@ Write assembly language programs to compute the following (use NASM assembler). 
 4. Assume that you are given with a list of n elements then find the median.
 5. Assume that you are given with a list of n elements and key, search the key using linear search. If the required key is found, return its position. Otherwise, return -1.
 
-#### Lab-1
+#### LabAssig-1
 1. Give the configuration of your laptop.
 2. Give the configuration of a system in IT-Lab.
 3. Develop C-Programs for the following problem statements:
