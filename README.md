@@ -8,7 +8,7 @@ Here is the detailed folder structure of the repository:
 
 ### Assig1
 - `Q1&Q2/`
-- `MPI_Assig1.pdf`
+  - `MPI_Assig1.pdf`
 - `Q3/`
   - `Q3.1.c`
   - `Q3.2.c`
