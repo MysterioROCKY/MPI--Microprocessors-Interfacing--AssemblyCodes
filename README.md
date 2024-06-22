@@ -14,7 +14,7 @@ Here is the detailed folder structure of the repository:
 - `Q3/`
   - `Q3.1.c`
   - `Q3.2.c`
-  - `readme_Q3.1&Q3.2.md`
+- `readme_Q3.1&Q3.2.md`
 
 ### Assig2
 - `Prob1/`
